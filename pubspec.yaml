@@ -1,0 +1,29 @@
+name: fztimeago
+description: Frazile Time Ago provides duration of datetime from a given date & time.
+version: 1.0.0
+homepage: https://github.com/FrazileDevelopers/Fztimeago
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.14.4
+  build_runner: ^1.10.0
+  build_web_compilers: ^2.11.0
+  test_api: ^0.2.15
+
+flutter:
+  # assets:
+  #   - images/
+  # fonts:
+  #   - family: Google
+  #     fonts:
+  #       - asset: fonts/google-Regular.ttf
+  #       - asset: fonts/google-Italic.ttf
+  #         style: italic
